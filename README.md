@@ -1,1 +1,1 @@
-A bunch of arduino projects I've been working on
+Ein paar Arduino-Projekte, die ich gemacht habe
